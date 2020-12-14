@@ -7,3 +7,6 @@ Lower War: At least two players who did not win the initial draw, but placed car
 Upper War: Similar to normal war, where at least two players play cards with the highest value. Winner of the war gets all cards in pot.
 
 Uses multiple decks (users/2 and then round up to nearest whole number)
+
+Coded by Mark Stone
+Game Designed by Mark Stone, Brandon Green, and Brendan King
