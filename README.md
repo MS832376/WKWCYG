@@ -9,4 +9,5 @@ Upper War: Similar to normal war, where at least two players play cards with the
 Uses multiple decks (users/2 and then round up to nearest whole number)
 
 Coded by Mark Stone
+
 Game Designed by Mark Stone, Brandon Green, and Brendan King
